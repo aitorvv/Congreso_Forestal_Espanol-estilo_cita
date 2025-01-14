@@ -28,7 +28,7 @@
 > Texto de ejemplo (BRAVO et al., 2025; R CORE TEAM, 2021; VÁZQUEZ-VELOSO et al., 2025a, 2025b; VÁZQUEZ-VELOSO & GÓMEZ-SANZ, 2022)
 
 
-### :books: Bibliography example:
+### :books: Ejemplo de bibliografía:
 
 > BRAVO, F.; ORDÓÑEZ, C.; VÁZQUEZ-VELOSO, A.; MICHALAKOPOULOS, S.; 2025. SIMANFOR cloud Decision Support System: Structure, content, and applications. Ecological Modelling, 499, 110912. https://doi.org/10.1016/j.ecolmodel.2024.110912
 
